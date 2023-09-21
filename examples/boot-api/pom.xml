@@ -17,7 +17,7 @@
 
 	<properties>
 		<springside.version>5.0.0-SNAPSHOT</springside.version>
-		<commons-lang3.version>3.5</commons-lang3.version>
+		<commons-lang3.version>3.13.0</commons-lang3.version>
 		<guava.version>20.0</guava.version>
 		<orika.version>1.5.0</orika.version>
 		
