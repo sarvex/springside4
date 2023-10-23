@@ -11,7 +11,7 @@
 
 	<properties>
 		<springside.version>5.0.0-SNAPSHOT</springside.version>
-		<spring-boot.version>3.1.4</spring-boot.version>
+		<spring-boot.version>3.1.5</spring-boot.version>
 		<commons-lang3.version>3.13.0</commons-lang3.version>
 		<javasimon.version>4.2.0</javasimon.version>
 		
