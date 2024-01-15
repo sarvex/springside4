@@ -9,7 +9,7 @@
 	<name>Springside :: Module :: Core</name>
 
 	<properties>
-		<spring.version>6.1.2</spring.version>
+		<spring.version>6.1.3</spring.version>
 		<springside.version>5.0.0-SNAPSHOT</springside.version>
 		<guava.version>23.0</guava.version>
 		<commons-lang3.version>3.14.0</commons-lang3.version>
