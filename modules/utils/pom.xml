@@ -16,7 +16,7 @@
 		<dozer.version>5.5.1</dozer.version>
 		<jackson.version>2.16.1</jackson.version>
 		<junit.version>4.13.2</junit.version>
-		<assertj.version>3.25.1</assertj.version>
+		<assertj.version>3.25.2</assertj.version>
 		<mockito.version>5.9.0</mockito.version>
 
 		<!-- Plugin的属性 -->
