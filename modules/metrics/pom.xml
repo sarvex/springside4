@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 	<name>Springside :: Module :: Metrics</name>
 	<properties>
-		<slf4j.version>2.0.11</slf4j.version>
+		<slf4j.version>2.0.13</slf4j.version>
 		<logback.version>1.4.14</logback.version>
 		<junit.version>4.13.2</junit.version>
 		<assertj.version>3.25.1</assertj.version>
